@@ -1,2 +1,2 @@
-# first-prooject
+# first-project
 started to learn github
